@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIT_PHOTO_ALBUMS", "BIT_PHOTO_ALBUMS.csproj", "{0A847CB5-58DC-48FD-809C-E554B7CDEFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A847CB5-58DC-48FD-809C-E554B7CDEFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A847CB5-58DC-48FD-809C-E554B7CDEFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A847CB5-58DC-48FD-809C-E554B7CDEFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A847CB5-58DC-48FD-809C-E554B7CDEFED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853A2C79-1C94-4195-A8DF-63D532FB8D76}
+	EndGlobalSection
+EndGlobal
